@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4d88991508cfc54d892eb214efdddc8, type: 3}
+  m_Name: Metal Hammer
+  m_EditorClassIdentifier: 
+  displayName: Metalen Tool
+  ingredients:
+  - itemType: 0
+    amount: 10
+  - itemType: 2
+    amount: 15
+  resultKind: 1
+  resultItem: 8
+  resultAmount: 1
+  toolPrefab: {fileID: 1733964371229187491, guid: 9c4250e0efa0ff340a8b2e47e3af04b1, type: 3}
+  placementPrefab: {fileID: 0}
